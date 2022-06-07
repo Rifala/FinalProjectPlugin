@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeNavigation"
+        android:enabled="true"
+        android:icon="@drawable/home_black"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/addNavigation"
+        android:enabled="true"
+        android:title="Add"
+        android:icon="@drawable/add_fill_black"/>
+
+    <item
+        android:id="@+id/profileNav"
+        android:enabled="true"
+        android:icon="@drawable/person_black"
+        android:title="Profile"/>
+
+
+
+</menu>
